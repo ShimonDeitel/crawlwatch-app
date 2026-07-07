@@ -1,0 +1,48 @@
+{
+  "identifier": "storekit-config",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {
+    "_applicationInternalID": "0",
+    "_developerTeamID": "W7Q885Q59C",
+    "_failTransactionsEnabled": false,
+    "_locale": "en_US",
+    "_storefront": "USA",
+    "_storeKitErrors": []
+  },
+  "subscriptionGroups": [
+    {
+      "id": "1",
+      "localizations": [],
+      "name": "Crawlwatch Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "2.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "id": "sub1",
+          "internalID": "sub1",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Unlock Annual inspection reminders and humidity trend notes",
+              "displayName": "Crawlwatch Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "com.shimondeitel.crawlwatch.pro.monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Crawlwatch Pro Monthly",
+          "subscriptionGroupID": "1",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
